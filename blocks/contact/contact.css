@@ -1,0 +1,14 @@
+.contact-wrapper {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-width: 500px;
+}
+
+.contact-wrapper h2 {
+  margin-bottom: 15px;
+}
+
+.contact-wrapper p {
+  margin: 8px 0;
+}
