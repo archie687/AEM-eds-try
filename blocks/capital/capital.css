@@ -1,0 +1,14 @@
+.capital table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.capital th,
+.capital td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.capital th {
+    font-weight: bold;
+}
